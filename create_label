@@ -1,0 +1,1 @@
+oc label deployment jws-cli app.openshift.io/runtime=tomcat --overwrite
