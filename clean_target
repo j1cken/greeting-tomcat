@@ -1,0 +1,1 @@
+rm -rf target/{classes,greeting,maven-archiver,generated-sources,maven-status}
