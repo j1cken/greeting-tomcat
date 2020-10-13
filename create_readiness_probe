@@ -1,0 +1,1 @@
+oc set probe deployment jws-cli --readiness --get-url=http://:8080/greeting/greet

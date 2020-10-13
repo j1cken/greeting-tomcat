@@ -1,0 +1,1 @@
+oc set probe deployment jws-cli --liveness --open-tcp=8080
