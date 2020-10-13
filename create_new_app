@@ -1,0 +1,1 @@
+oc new-app --name jws-cli openshift/webserver53-openjdk11-tomcat9-openshift-rhel7:latest~https://github.com/j1cken/greeting-tomcat.git
