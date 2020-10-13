@@ -1,0 +1,1 @@
+oc patch deployment jws-cli -p '{"spec":{"template":{"spec":{"containers":[{"name":"jws-cli", "resources":{"limits":{"cpu":"1","memory":"512Mi"},"requests":{"cpu":"100m","memory":"256Mi"}}} ] }}}}'
