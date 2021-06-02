@@ -1,0 +1,1 @@
+helm install my-helm-tomcat bitnami/tomcat
